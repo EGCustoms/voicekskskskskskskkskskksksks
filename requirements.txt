@@ -17,7 +17,7 @@ chardet==3.0.4
 colorama==0.4.3
 coloredlogs==14.0
 crayons==0.3.0
-cryptography==2.8
+cryptography==3.2
 DateTime==4.3
 decorator==4.4.2
 deuces==0.2
