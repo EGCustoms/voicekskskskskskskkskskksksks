@@ -42,7 +42,7 @@ psutil==5.7.0
 public==2019.4.13
 pyasn1==0.4.8
 pyasn1-modules==0.2.7
-pycares==3.1.1
+pycares==4.2.0
 pycparser==2.19
 pyOpenSSL==19.1.0
 pypresence==4.0.0
