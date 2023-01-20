@@ -33,7 +33,7 @@ humanfriendly==8.2
 idna==2.8
 image==1.5.31
 lxml==4.4.2
-mechanize==0.4.5
+mechanize==0.4.6
 multidict==4.7.2
 Pillow==7.1.2
 post==2019.4.13
